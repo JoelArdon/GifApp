@@ -3,7 +3,7 @@
 ##### La página web puede ser vista en [JoelGifApp] (https://joelardon.github.io/GifApp/)
 ##Instalación
 #### npm install
-Para correr los test 
-npm test
-Correr el servidor
-npm start
+#### Para correr los test 
+#### npm test
+#### Correr el servidor
+#### npm start
